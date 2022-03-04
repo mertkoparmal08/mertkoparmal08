@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mert Koparmal
-- 👀 I’m Web Desing and Java 
-- 🌱 I’m Frontend
+- 👀 I’m interested in Web Desing and Java 
+- 🌱 I’m working for Frontend
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/mert-koparmal-6b275022b/
 
 <!---
