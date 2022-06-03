@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mert Koparmal
-- 👀 I’m interested in Web Desing and Java 
+- 👀 I’m interested in Web Desing, Sql and Java 
 - 🌱 I’m working for Frontend
 - 📫 How to reach me mertkop08@gmail.com
 - 📝 I regularly write articles on https://mertonline.school.blog/
